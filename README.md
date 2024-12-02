@@ -21,6 +21,7 @@ Some of the technologies I work with:
 ### Connect with Me
 - 📫 How to reach me: _mrfieldCS@outlook.com_  
 - LinkedIn: _[https://www.linkedin.com/in/m7xed/](https://www.linkedin.com/in/m7xed/)_
+- Discord: _m7xed_
 
 ### Fun Facts
 ⚡ I'm a huge metal music fan; I spend at least 2-3 hours a day listening to music and love metal/rock festivals!  
