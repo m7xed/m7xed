@@ -11,7 +11,7 @@ Some of the technologies I work with:
 - **HTML/CSS**: Strong foundation in front-end development, creating responsive and visually appealing user interfaces. 🌐
 
 ### Current Focus
-- 🔭 I’m currently working on a university project that involves developing a recreation of the Atari game Boulderdash
+- 🔭 I’m currently working on an individual project constructing a GUI to visualise a range of cyphers
 
 ### Interests
 - 💻 **Web Development**: I enjoy spending time crafting enjoyable applications that serve a purpose.
