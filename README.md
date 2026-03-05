@@ -1,29 +1,35 @@
 ## Hi there 👋
 
 ### About Me
-I'm a computer science student currently studying at Swansea University in Wales. I specialize in software engineering and web development, and I'm passionate about creating efficient and user-friendly applications, along with effective algorithms.
 
-Some of the technologies I work with:
-- **Java**: Proficient in building robust applications and understanding object-oriented programming principles. ☕
-- **Python**: Experienced in data analysis, scripting, and machine learning. 🐍
-- **Haskell**: Exploring functional programming concepts to further my range of languages. 💙
-- **PHP**: Skilled in server-side scripting and building dynamic web applications. 🐘
-- **HTML/CSS**: Strong foundation in front-end development, creating responsive and visually appealing user interfaces. 🌐
+I'm a Computer Science student at Swansea University, and co-founder of [8Employ](https://8employ.co.uk) — an AI-powered business intelligence platform built to help local hospitality and retail businesses make smarter decisions with their data.
+
+At 8Employ I contribute to the full stack: frontend, backend, databases, and deployment. We take AI systems and turn them into polished, reliable products.
+
+**Technologies I work with:**
+- **JavaScript / HTML / CSS** — Production web apps, responsive UI, and everything in between 🌐
+- **Java** — Robust application development and OOP fundamentals ☕
+- **Python** — Scripting, data analysis, and ML pipelines 🐍
+- **Haskell** — Functional programming concepts 💙
+- **Cloudflare Workers** — Edge deployment and static asset hosting ⚡
+- **Git / GitHub** — Version control and collaborative development
 
 ### Current Focus
-- 🔭 I’m currently working on an individual project constructing a GUI to visualise a range of cyphers
+- 🔭 Building and shipping [8Employ](https://8employ.co.uk) — AI business intelligence reports for local businesses across South Wales
+- 🤖 Working with AI/LLM pipelines to generate actionable, data-driven recommendations
 
 ### Interests
-- 💻 **Web Development**: I enjoy spending time crafting enjoyable applications that serve a purpose.
-- 📊 **Data Science**: I have a keen interest in data analysis and visualization, specializing in machine learning.
-- 🤖 **Cyber Security**: I have a secondary interest in protecting systems from malicious attacks and creating robust layers of security.
+- 💻 **Web Development** — Crafting clean, purposeful applications end-to-end
+- 📊 **Data Science & AI** — Turning raw business data into decisions people can act on
+- 🔐 **Cyber Security** — Protecting systems and building robust security layers
 
 ### Connect with Me
-- 📫 How to reach me: _mrfieldCS@outlook.com_  
-- LinkedIn: _[https://www.linkedin.com/in/m7xed/](https://www.linkedin.com/in/m7xed/)_
-- Discord: _m7xed_
+- 📫 Personal: *mrfieldCS@outlook.com*
+- 💼 LinkedIn: [linkedin.com/in/m7xed](https://www.linkedin.com/in/m7xed/)
+- 🏢 8Employ: [linkedin.com/company/8-employ](https://www.linkedin.com/company/8-employ/)
+- 💬 Discord: *m7xed*
 
 ### Fun Facts
-⚡ I'm a huge metal music fan; I spend at least 2-3 hours a day listening to music and love metal/rock festivals!  
-🎸 I have played guitar for nearly 7 years.  
-🏊 I'm a qualified lifeguard and trampoline coach.
+⚡ Huge metal music fan — at least 2–3 hours a day, and a regular at metal/rock festivals  
+🎸 Playing guitar for nearly 7 years  
+🏊 Qualified lifeguard and trampoline coach
