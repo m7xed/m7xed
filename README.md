@@ -21,4 +21,4 @@ Guitar player of nearly 7 years, listening to metal/emo music most of the day. A
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/m7xed) · [8Employ on LinkedIn](https://linkedin.com/company/8-employ) · mrfieldCS@outlook.com
+[LinkedIn](https://linkedin.com/in/m7xed) · [8Employ on LinkedIn](https://linkedin.com/company/8-employ) · max@8employ.uk · mrfieldCS@outlook.com
