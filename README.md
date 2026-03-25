@@ -1,35 +1,22 @@
-## Hi there 👋
+# Max Field
 
-### About Me
+**CTO & Co-Founder @ [8Employ](https://8employ.uk)** · Final-Year CS @ Swansea University
 
-I'm a Computer Science student at Swansea University, and co-founder of [8Employ](https://8employ.co.uk) - an AI-powered business intelligence platform built to help local hospitality and retail businesses make smarter decisions with their data.
+---
 
-At 8Employ I contribute to the full stack: frontend, backend, databases, and deployment. We take AI systems and turn them into polished, reliable products.
+Building AI-powered business intelligence for hospitality and retail SMEs across South Wales. 8Employ turns raw point-of-sale data into automated, actionable weekly reports — so independent businesses can make decisions backed by data, not guesswork.
 
-**Technologies I work with:**
-- **JavaScript / HTML / CSS** - Production web apps, responsive UI, and everything in between 🌐
-- **Java** — Robust application development and OOP fundamentals ☕
-- **Python** — Scripting, data analysis, and ML pipelines 🐍
-- **Haskell** — Functional programming concepts 💙
-- **Cloudflare Workers** - Edge deployment and static asset hosting ⚡
-- **Git / GitHub** — Version control and collaborative development
+## What I Own at 8Employ
 
-### Current Focus
-- 🔭 Building and shipping [8Employ](https://8employ.co.uk) - AI business intelligence reports for local businesses across South Wales
-- 🤖 Working with AI/LLM pipelines to generate actionable, data-driven recommendations
+- **Platform architecture** — data ingestion pipelines, LLM-driven analysis engine, and automated report delivery
+- **Infrastructure & deployment** — Cloudflare Pages, edge workers, server orchestration
+- **Full-stack product development** — from database schema through API layer to client-facing UI
+- **AI/LLM integration** — building reliable, production-grade pipelines that generate structured business recommendations from messy real-world data
 
-### Interests
-- 💻 **Web Development** - Crafting clean, purposeful applications end-to-end
-- 📊 **Data Science & AI** - Turning raw business data into decisions people can act on
-- 🔐 **Cyber Security** - Protecting systems and building robust security layers
+## Tech
 
-### Connect with Me
-- 📫 Personal: *mrfieldCS@outlook.com*
-- 💼 LinkedIn: [linkedin.com/in/m7xed](https://www.linkedin.com/in/m7xed/)
-- 🏢 8Employ: [linkedin.com/company/8-employ](https://www.linkedin.com/company/8-employ/)
-- 💬 Discord: *m7xed*
+`JavaScript` · `Python` · `Java` · `Haskell` · `Cloudflare Workers` · `Git`
 
-### Fun Facts
-⚡ Huge metal music fan — at least 2–3 hours a day, and a regular at metal/rock festivals  
-🎸 Playing guitar for nearly 7 years  
-🏊 Qualified lifeguard and trampoline coach
+## Elsewhere
+
+[LinkedIn](https://linkedin.com/in/m7xed) · [8Employ on LinkedIn](https://linkedin.com/company/8-employ) · mrfieldCS@outlook.com
