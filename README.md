@@ -2,8 +2,6 @@
 
 **CTO & Co-Founder @ [8Employ](https://8employ.uk)** · Final-Year CS @ Swansea University
 
----
-
 Building AI-powered business intelligence for hospitality and retail SMEs across South Wales. 8Employ turns raw point-of-sale data into automated, actionable weekly reports - so independent businesses can make decisions backed by data, not guesswork.
 
 ## What I Own at 8Employ
