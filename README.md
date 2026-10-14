@@ -1,24 +1,26 @@
 # Max Field
 
-**CTO & Co-Founder @ [8Employ](https://8employ.uk)** · CS Graduate from Swansea University
+**Software Engineer** · CS Graduate (2:1) from Swansea University · Previously Co-Founder & CTO @ 8Employ
 
-Building AI-powered business intelligence for hospitality and retail SMEs across South Wales. 8Employ turns raw point-of-sale data into automated, actionable weekly reports - so independent businesses can make decisions backed by data, not guesswork.
+I build data-heavy backend systems and LLM pipelines that have to survive contact with messy real-world input. Currently open to software engineering roles, UK-based and happy to relocate.
 
-## What I Own at 8Employ
+## 8Employ — Co-Founder & CTO (Mar 2026 – Sept 2026)
 
-- **Platform architecture** - data ingestion pipelines, LLM-driven analysis engine, and automated report delivery
-- **Infrastructure & deployment** - Cloudflare Pages, edge workers, server orchestration
-- **Full-stack product development** - from database schema through API layer to client-facing UI
-- **AI/LLM integration** - building reliable, production-grade pipelines that generate structured business recommendations from messy real-world data
+An early-stage startup turning hospitality and retail point-of-sale data into automated weekly business reports for independent SMEs in South Wales. As the technical co-founder, I was responsible for the platform end to end:
+
+- **Analysis pipeline** – designed a sequential multi-agent LLM pipeline that turns raw sales data into structured, validated business recommendations
+- **Data ingestion** – integrations with POS and accounting systems (Dojo, ICRTouch, Xero), normalising inconsistent third-party data into a common model
+- **Infrastructure** – Cloudflare Pages and Workers for deployment, plus the team's GitHub org, workspace, and credential management policy
+- **Product** – [database] schema through API layer to client-facing UI, shipped to pilot customers
 
 ## Tech
 
-`JavaScript` · `Python` · `Java` · `Haskell` · `Cloudflare Workers` · `Git`
+`Python` · `JavaScript` · `Java` · `Haskell` · `[SQL / database]` · `Cloudflare Workers` · `Git`
 
 ## Outside of Work
 
-Guitar player of nearly 7 years, listening to metal/emo music most of the day. Also a qualified lifeguard and trampoline coach - not your typical CTO backstory, but it keeps things interesting.
+Guitar player of nearly 7 years, mostly listening to metal and emo. Also a qualified lifeguard and trampoline coach.
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/m7xed) · [8Employ on LinkedIn](https://linkedin.com/company/8-employ) · max@8employ.uk · mrfieldCS@outlook.com
+[LinkedIn](https://linkedin.com/in/m7xed) · [mfield.dev@gmail.com](mailto:mfield.dev@gmail.com)
